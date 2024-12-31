@@ -1,0 +1,11 @@
+{
+  "name": "problem1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest SumToN.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
